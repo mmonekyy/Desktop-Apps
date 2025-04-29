@@ -1,5 +1,6 @@
-<h1 align="center">CTk Menu App</h1>
+# Desktop-Apps
+Desktop Apps created by me 
 
-<p align="center">
-  Nowoczesne GUI w Pythonie z CustomTkinter ✨
-</p>
+## Podgląd aplikacji
+
+![Widok aplikacji](assets/App%20view.png)
