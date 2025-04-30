@@ -2,5 +2,6 @@
 Desktop Apps created by me 
 
 ## Podgląd aplikacji
-
-![Widok aplikacji](assets/App%20view.png)
+<p align="center">
+  <img src="assets/App%20view.png"alt="Podgląd aplikacji">
+</p>
