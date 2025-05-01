@@ -5,9 +5,9 @@ The application works by placing code modules into a folder named modules. Each 
 ## 📁 App Structure
 
 ```
-main.py
-modules/
-└── password.py
+🧠 `main.py`  
+📁 `modules/`  
+└── 🔐 `password.py`
 ```
 
 ## Preview Application 
